@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# eitech-tutorials
-Projetos e tutorias do meu canal do Youtube chamado Eitech
-=======
-
 # Descrição do Código
 
 ## Importações
@@ -45,7 +40,4 @@ Execute o código em um ambiente Python configurado com as dependências necess�
 ## Interagir com o Bot
 Mencione o bot em um canal do Discord e ele responderá usando o modelo Gemini.
 
-# Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
->>>>>>> repo_gemini/main
